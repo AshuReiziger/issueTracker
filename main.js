@@ -63,3 +63,4 @@ function fetchIssues(){
 }
 
 //reference video https://www.youtube.com/watch?v=NYq9J-Eur9U
+//javascript documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
